@@ -1,6 +1,6 @@
 EC 463: Senor Design Mini Project Report
 
-Explanation
+Explanation:
 
   Our hardware mini project is based on the wifi module on raspberry pi; the goal is to collect data on electronic devices within 20 meters radius including cars with hotspot activity. We were able to get both wifi_scan.py and bluetooth files to work using bt_scan.py & ble_scan.py on our Raspberry pi. 
   
@@ -8,7 +8,7 @@ Explanation
 
 
 
-Discussion
+Discussion:
 
 These are the 4 graphs we acquired based on the different period of time the unknown devices were detected to be stationary.
 
@@ -27,6 +27,6 @@ From graph 2 and 3, we can see that the graph looks the same, and can be conclud
 
 
 
-Difficulties
+Difficulties:
 
 As our first time using raspberry pi, the overall experience went well. We found that raspberry pi could be used as a small computer that is similar to our desktop and Mac. There are two major difficulties that we faced while we are working with the raspberry pi. The first difficulites we encouter was setting up the SSH after installing the Raspberry Pi OS onto the micro sd card, we wanted to establish a wired / wireless connection betwenn Raspberry Pi with our Macbooks. We. attempted to make SSH connection by just entering commands in the IOS terminal, however it doesn't work. It turned out Raspberry Pi wasnt friendly toward IOS platform some actions cant be turned on manually compared to the Windows counterpart. Then we tried to connect Raspberry Pi to an external monitor using hdmi cables to project Raspberry Pi interface which works fine. The second difficulties that we faced is running the wifi_plot.py. There are many commands we needed to setup before running the script. At first we try to setup using "sudo apt install python3-numpy", however it gives an error, so we try "python3 -m pip install numpy xarray matplotlib" and it worked! There was an information gap we learned from this experience, some commands werent distinguish between OS type and versions.
