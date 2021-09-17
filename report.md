@@ -1,5 +1,7 @@
 EC 463: Senor Design Mini Project Report
 
+By; Steven Wang & Yu-Sheng Chen
+
 Explanation:
 
   Our hardware mini project is based on the wifi module on raspberry pi; the goal is to collect data on electronic devices within 20 meters radius including cars with hotspot activity. We were able to get both wifi_scan.py and bluetooth files to work using bt_scan.py & ble_scan.py on our Raspberry pi. 
