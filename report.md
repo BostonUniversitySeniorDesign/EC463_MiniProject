@@ -1,6 +1,6 @@
 EC 463: Senor Design Mini Project Report
 
-By; Steven Wang & Yu-Sheng Chen
+By: Steven Wang & Yu-Sheng Chen
 
 Explanation:
 
