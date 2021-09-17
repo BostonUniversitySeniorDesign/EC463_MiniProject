@@ -1,6 +1,8 @@
 # EC463_MiniProject
 Boston University Fall 2021 ECE Senior Capstone miniproject, EC463: Hardware Mini-Project
 
+Contributors: Steven Wang & Yu-Sheng Chen
+
 Goal: 
 
 Measure electronics wifi activity and automotive hotspot actvity within 20 meters radius
