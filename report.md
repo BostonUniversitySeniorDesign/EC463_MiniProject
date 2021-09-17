@@ -26,4 +26,5 @@ From graph 2 and 3, we can see that the graph looks the same, and can be conclud
 
 
 Difficulties
+
 This is the first time that we used raspberry pi, however the overall experience are well. We found that raspberry pi could be used as a small computer that is similar to our desktop and Mac. There are two major difficulties that we faced while we are working with the raspberry pi. The first difficulites will be on setting up SSH, where we want to make a wireless connection betwenn raspberry pi with our own laptop. At first, we used Macbook and try to make SSH connection by just entering some statement in the terminal, however it doesn't work. Then we just try to connect raspberry pi to the screen by using hdmi cables then everything goes well. The second difficulties that we faced is running the wifi_plot.py. There are many installations we need before running the script. At first we try to install stuff by using "sudo apt install python3-numpy", however it gives an error, so we try "python3 -m pip install numpy xarray matplotlib" and it works. From this experiences, we learn a new way of installation.
