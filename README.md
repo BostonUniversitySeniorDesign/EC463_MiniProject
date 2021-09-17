@@ -1,2 +1,2 @@
 # EC463_MiniProject
-Boston University EC463 Mini-Project
+Boston University EC463: Hardware Mini-Project
